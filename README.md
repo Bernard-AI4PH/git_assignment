@@ -17,6 +17,6 @@ The following objectives were achieved in the assignment:
 # Files attached to repository:
 
 1.  The [Data_wrangling_visualization.rmd](https://github.com/Bernard-AI4PH/git_assignment/commit/29f5bc999283701884d1b93de62878835f93c973) file is the [RMarkdown](https://rmarkdown.rstudio.com/) output of 
-data cleaning and visualization was done on the [can_path_dataset](https://canpath.ca/student-dataset/).
+data cleaning and visualization that was done on the [can_path_dataset](https://canpath.ca/student-dataset/).
 
 2. The .rmd file was knitted to [data_wrangling_viz.html](https://github.com/Bernard-AI4PH/git_assignment/commit/5cd00ba46c506f16a294d3dcf793f3a315c9e907) which presents the code and output in a single file.
