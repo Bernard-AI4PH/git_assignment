@@ -20,3 +20,11 @@ The following objectives were achieved in the assignment:
 data cleaning and visualization that was done on the [can_path_dataset](https://canpath.ca/student-dataset/).
 
 2. The .rmd file was knitted to [data_wrangling_viz.html](https://github.com/Bernard-AI4PH/git_assignment/commit/5cd00ba46c506f16a294d3dcf793f3a315c9e907) which presents the code and output in a single file.
+This file can be downloaded and viewed on a web browser 
+
+
+# Pull request 
+
+The [github_assignment](https://github.com/walkabilly/github_assignment) repository for the class was forked [github_assignment](https://github.com/Bernard-AI4PH/github_assignment) to my dashboard. I then worked on the .md 
+file and submmited a gif downloaded from [tenor_gif](https://tenor.com/en-GB/) 
+as well pull request. 
